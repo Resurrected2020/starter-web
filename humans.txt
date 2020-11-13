@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Antoine Lequin antoinelequin@gmail.com @metal2020
 
 # THANKS
 
